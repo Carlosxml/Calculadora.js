@@ -8,4 +8,4 @@
 
 ➕ Incremento: separação de decimal & cálculos dinâmicos 
 
-<h3 align="center"> Programação WEB 2021.1 <br> Desenvolvimento de Sistemas SENAI/BA</h3>
+<h3 align="center"> Programação WEB 2021.1 <br> Desenvolvimento de Sistemas</h3>
